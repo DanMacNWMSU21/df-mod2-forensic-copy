@@ -7,6 +7,8 @@ md
 * Get-FileHash
 * Out-File
 
+PowerShell script is uploaded to this repo.
+
 I ultimately felt that running a script was easier, in the event that any evidence documents were altered, that way it is easier to copy them and log their changes in to the new folders.
 
 Evidence file hashes;
